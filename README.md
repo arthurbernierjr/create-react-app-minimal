@@ -14,7 +14,7 @@ npm install -g create-react-app
 Install `cra-minimal`:
 
 ```bash
-npm install -g https://github.com/ericandrewlewis/create-react-app-minimal
+npm install -g https://github.com/arthurbernierjr/create-react-app-minimal
 ```
 
 Use `cra-minimal` as you would use `create-react-app` to create a project:
